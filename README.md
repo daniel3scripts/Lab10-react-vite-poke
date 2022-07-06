@@ -1,4 +1,4 @@
-#Lab10-react-vite-poke
+# Lab10-react-vite-poke
 -Se hizo un pequeño consumo de api de pokemon con filtro de búsqueda.
 -Se usaron las funciones useState y useEffect.
 -Se añadio un poco de css.
